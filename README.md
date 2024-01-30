@@ -42,7 +42,7 @@ Documentation for the most recent version is available on the project website. A
 The latest release can be found at https://github.com/vincentlaboratories/neoag
 
 # License
-The model and associated scripts are licensed for non-commercial research purposes only - see LICENSE.txt for full license
+The model and associated scripts are licensed for using the Apache 2.0 License - see LICENSE.txt for full terms.
 
 # Contact
 GitHub: https://github.com/vincentlaboratories/neoag
